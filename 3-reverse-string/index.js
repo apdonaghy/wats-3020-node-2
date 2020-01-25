@@ -2,7 +2,7 @@
 /*
 Description: a program that takes a string as input and reverses it using JavaScript string methods.
 Input: A string
-Output: reversed sting
+Output: reversed string
 Usage: Node 3-reverse-string <string>
 */
 
